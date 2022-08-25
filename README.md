@@ -21,3 +21,13 @@ If you’re ready to learn more about accessibility, check out this three-part s
 2. <a href="Designing for Global Accessibility, Part II: Context matters">Designing for Global Accessibility, Part II: Context matters</a> explores why it’s critical to consider logistics during the design process, in order to expand your app’s usability and usefulness.
 3. <a href="https://design.google/library/designing-global-accessibility-part-iii/">Designing for Global Accessibility, Part III: Be inclusive by default</a> discusses how UX designers can make tactical decisions to create inclusive apps.
 * <a href="https://material.io/design/usability/accessibility.html"> Accessibility Guide for Google Material</a>
+
+
+### Design Sprints
+* <a href="https://designsprintkit.withgoogle.com/">Google Design Sprint Kit</a> is an open-source resource for anyone who is learning about or running design sprints. The website includes <a href="https://designsprintkit.withgoogle.com/case-studies">case studies</a> about design sprints that have solved all kinds of challenges, <a href="https://designsprintkit.withgoogle.com/resources/overview">templates for decks and activities</a>, and more.
+* <a href="https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09#:~:text=A%20Design%20Sprint%20is%20a,and%20testing%20ideas%20with%20customers.">What’s a Design Sprint and why is it important?</a>
+* Read the book <a href="https://www.thesprintbook.com/book">Sprint</a> by the creator of design sprints, and former Googler, Jake Knapp. Pay special attention to the chapters “Start at the End” to get an overview of how to establish long-term goals for a sprint, and “Liftoff” to motivate you to get started with your first sprint. Happy reading!
+
+#### An Entry-Level Designer's Role
+* <a href="https://medium.com/inkoniq-blog/inside-a-design-sprint-workshop-at-google-3950b1654f2">How a Design Sprint Works at Google</a>
+* <a href="https://uxplanet.org/3-things-i-learned-from-my-first-design-sprint-ed5d2113afad">What One UX Designer Learned from Their Very First Design Sprint</a>
